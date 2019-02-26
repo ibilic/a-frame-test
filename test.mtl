@@ -1,0 +1,5 @@
+﻿newmtl /Game/StarterContent/Props/Materials/M_Rock_M_Rock
+	map_Kd M_Rock_M_Rock_D.bmp
+	map_Ks M_Rock_M_Rock_S.bmp
+	bump M_Rock_M_Rock_N.bmp
+
